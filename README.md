@@ -7,10 +7,9 @@ This project contains a website that needed to be refactored and cleaned up. The
 
 ## Screenshots
 
-![App Screenshot](https://github.com/Kking91/Mini-Project/blob/main/assets/images/screenshot1.jpeg?raw=true)
+![Screenshot](https://github.com/Kking91/Mini-Project/blob/main/assets/images/screenshot1.jpeg?raw=true)
 
 
 ## 🔗 Links
-Mini-Project link
-https://kking91.github.io/Mini-Project/
+[Mini-Project link](https://kking91.github.io/Mini-Project/)
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Kking91)
