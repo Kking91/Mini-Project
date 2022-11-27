@@ -2,11 +2,15 @@
 
 ## Code Refactoring Project
 
-  This project contains a website that needed to be refactored and cleaned up. The object is to make the code more accessible while keeping the original intent of the code intact.  
+This project contains a website that needed to be refactored and cleaned up. The object is to make the code more accessible while keeping the original intent of the code intact.
 
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+## Screenshots
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+![App Screenshot](https://github.com/Kking91/Mini-Project/blob/main/assets/images/screenshot1.jpeg?raw=true)
+
+
+## 🔗 Links
+Mini-Project link
+https://kking91.github.io/Mini-Project/
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Kking91)
